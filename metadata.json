@@ -1,0 +1,8 @@
+{
+  "name": "CineNLP — Movie Recommender & NLP Engine",
+  "description": "Natural Language Processing (NLP) and Python powered movie recommendation system with interactive vector space visualizer, TF-IDF cosine similarity, and Python code laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
